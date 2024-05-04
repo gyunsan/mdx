@@ -49,4 +49,5 @@ export function PostItem({
       </div>
     </article>
   );
+
 }
